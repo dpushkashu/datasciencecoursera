@@ -21,4 +21,4 @@ For each record in the dataset it is provided:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
-[ReadMe] (https://github.com/dpushkashu/datasciencecoursera/blob/master/README.md)
+[ReadMe](https://github.com/dpushkashu/datasciencecoursera/blob/master/README.md)
