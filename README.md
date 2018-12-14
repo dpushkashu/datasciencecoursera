@@ -14,8 +14,7 @@ Goal | Item
 --- | --- 
 Analysis R Script |  run_analysis.R
 Tidy Data Set |  [Clean Data Set](https://github.com/dpushkashu/datasciencecoursera/blob/master/tidyData.csv)
-Github Repo | Repo 
-Cookbook | CodeBook.md 
+Cookbook | [CodeBook.md](https://github.com/dpushkashu/datasciencecoursera/blob/master/CodeBook.md) 
 README | ReadingItNow 
 
 ## Contributors
@@ -26,4 +25,4 @@ Dumitru |  Puscasu |  <dmitry.pushkashu@gmail.com>
 
 ## License
 
-Anyone may contribute after this assignment is turned in and graded. 
+For anyone.
