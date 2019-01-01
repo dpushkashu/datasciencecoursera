@@ -13,7 +13,8 @@ Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/g
 Goal | Item 
 --- | --- 
 Analysis R Script |  run_analysis.R
-Tidy Data Set |  [Clean Data Set](https://github.com/dpushkashu/datasciencecoursera/blob/master/tidyData.csv)
+Tidy Data Set |  [Clean Data Set (format csv)](https://github.com/dpushkashu/datasciencecoursera/blob/master/tidyData.csv)
+Tidy Data Set |  [Clean Data Set (format txt)](https://github.com/dpushkashu/datasciencecoursera/blob/master/tidyData.txt)
 Cookbook | [CodeBook.md](https://github.com/dpushkashu/datasciencecoursera/blob/master/CodeBook.md) 
 README | ReadingItNow 
 
